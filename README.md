@@ -12,10 +12,10 @@ DB_PASSWORD =
 ```
 
 ### general commands:
-/start - start bot, and add your account to database
-/make_qrcode - make qrcode for Google Authenticator App
-/check_2fa - check 2fa code
-/cancel - cancel FSM state
+- /start - start bot, and add your account to database
+- /make_qrcode - make qrcode for Google Authenticator App
+- /check_2fa - check 2fa code
+- /cancel - cancel FSM state
 
 ### admin commands:
 /create_user_table - create users table in database
