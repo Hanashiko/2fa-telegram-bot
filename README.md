@@ -17,7 +17,7 @@ general commands:
 /check_2fa - check 2fa code
 /cancel - cancel FSM state
 
-admin commands:\n\n\n
+admin commands:
 /create_user_table - create users table in database
 /delete_user_table - drop users table in database
 /get_users - get list of all users
