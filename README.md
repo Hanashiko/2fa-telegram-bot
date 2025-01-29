@@ -11,13 +11,13 @@ DB_USER =
 DB_PASSWORD = 
 ```
 
-general commands:
+general commands:```
 /start - start bot, and add your account to database
 /make_qrcode - make qrcode for Google Authenticator App
 /check_2fa - check 2fa code
-/cancel - cancel FSM state
+/cancel - cancel FSM state```
 
-admin commands:
+admin commands:```
 /create_user_table - create users table in database
 /delete_user_table - drop users table in database
-/get_users - get list of all users
+/get_users - get list of all users```
