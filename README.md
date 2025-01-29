@@ -18,6 +18,6 @@ DB_PASSWORD =
 - /cancel - cancel FSM state
 
 ### admin commands:
-/create_user_table - create users table in database
-/delete_user_table - drop users table in database
-/get_users - get list of all users
+- /create_user_table - create users table in database
+- /delete_user_table - drop users table in database
+- /get_users - get list of all users
